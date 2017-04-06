@@ -1,0 +1,53 @@
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Internet Voting System.dll.config
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Internet Voting System.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Internet Voting System.pdb
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Antlr3.Runtime.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\EntityFramework.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\EntityFramework.SqlServer.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Newtonsoft.Json.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Owin.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\System.Web.Optimization.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\System.Web.Providers.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\WebGrease.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\System.Web.Optimization.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Antlr3.Runtime.pdb
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Newtonsoft.Json.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\EntityFramework.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\EntityFramework.SqlServer.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\obj\Debug\Internet Voting System.csprojResolveAssemblyReference.cache
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\obj\Debug\Internet Voting System.dll
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\obj\Debug\Internet Voting System.pdb
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\obj\Debug\Internet_Voting_System.Migrations.InitialCreate.resources
+C:\Users\Arek\documents\visual studio 2013\Projects\Internet Voting System\Internet Voting System\obj\Debug\Internet Voting System.csproj.GenerateResource.Cache
